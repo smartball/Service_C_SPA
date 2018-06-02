@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{1B19CD01-5C50-4270-AA0D-11FC6692021B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Services_SPA/App_Start/SearchPlace.cs">
+    <Files>
+      <File FileName="Services_SPA/App_Start/SearchPlace.cs" Line="37" Column="309" />
+      <File FileName="Services_SPA/Controllers/AppraisalController.cs" Line="1" Column="1" />
+      <File FileName="Services_SPA/Models/Nearby.cs" Line="1" Column="1" />
+      <File FileName="Services_SPA/Models/Product.cs" Line="26" Column="1" />
+      <File FileName="Services_SPA/Controllers/WidthController.cs" Line="1" Column="1" />
+      <File FileName="Services_SPA/App_Start/Select.cs" Line="105" Column="167" />
+      <File FileName="Services_SPA/Controllers/ProvinceController.cs" Line="28" Column="80" />
+      <File FileName="Services_SPA/App_Start/Amphur.cs" Line="1" Column="1" />
+      <File FileName="Services_SPA/Models/ProvinceModel.cs" Line="1" Column="1" />
+      <File FileName="Services_SPA/Controllers/SearchController.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="Services_SPA/App_Start/MarkerQuery.cs" line="35" offsetX="1225" offsetY="510" expression="deen_number" liveUpdate="False" />
+    <Watch file="Services_SPA/App_Start/MarkerQuery.cs" line="35" offsetX="1225" offsetY="510" expression="deen_number" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.ItemProperties.Services__SPA PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
